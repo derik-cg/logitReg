@@ -1,0 +1,1 @@
+Este repositorio contiene algunos archivos para estudiar la regresión logística en R. El archivo RegresionLogística.Rmd es un archivo de tipo RMarkdown. Para poder utilizarlo es necesario procesarlo en R. Para procesar cualquier archivo de extensión Rmd es necesario instalar el paquete rmarkdown en R. Luego se utiliza la instrucción rmarkdown::render("nombre")
